@@ -1,0 +1,104 @@
+body {
+	font-family: "arial";
+}
+section {
+	width: 50%;
+	margin-bottom: 30px;
+}
+
+h2 {
+	margin-bottom: 0px;
+
+}
+
+section a:visited {
+	color: #7a99ac;
+}
+
+section#usa a:link {
+	color: #00A0DC;
+}
+
+section#usa a:hover {
+	color: #33B3E3;
+}
+
+
+
+section#terra a:link {
+	color: #7fa50c;
+}
+
+section#terra a:hover {
+	color: #98c11d;
+}
+
+
+
+section#time a:link {
+	color: #c8a10e;
+}
+
+section#time a:hover {
+	color: #dbb216;
+}
+
+
+
+section#cps a:link {
+	color: #d7572b;
+}
+
+section#cps a:hover {
+	color: #df7955;
+}
+
+
+
+section#international a:link {
+	color: #3975b7;
+}
+
+section#international a:hover {
+	color: #6191c5;
+}
+
+
+
+section#nhgis a:link {
+	color: #008f4c;
+}
+
+section#nhgis a:hover {
+	color: #40ad77;
+}
+
+
+
+section#health a:link {
+	color: #279989;
+}
+
+section#health a:hover {
+	color: #5bb2a1;
+}
+
+
+
+section#dhs a:link {
+	color: #98579b;
+}
+
+section#dhs a:hover {
+	color: #ad79af;
+}
+
+
+
+section#ed a:link {
+	color: #bf0d3e;
+}
+
+section#ed a:hover {
+	color: #d96e8b;
+}
